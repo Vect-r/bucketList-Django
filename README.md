@@ -2,7 +2,7 @@
 
 Django Bucket List is a web application that allows users to create and manage their bucket lists. Whether it's traveling to exotic destinations, learning a new skill, or accomplishing personal goals, this application helps users keep track of their aspirations.
 
-Getting Started
+## Getting Started
 
 To run this project locally, follow these steps:
 
